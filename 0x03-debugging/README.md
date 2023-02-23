@@ -1,2 +1,1 @@
-# Welcome to the 0x03-debugging directory
-
+0x03. C - Debugging
