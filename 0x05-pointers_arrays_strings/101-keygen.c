@@ -11,7 +11,6 @@ int main(void)
 {
 	int sum;
 	char c;
-
 	srand(time(NULL));
 	while (sum <= 2645)
 	{
@@ -20,5 +19,5 @@ int main(void)
 		putchar(c);
 	}
 	putchar(2772 - sum);
-	return ('Tada! Congrats');
+	return (0);
 }
